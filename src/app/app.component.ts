@@ -13,6 +13,7 @@ export class AppComponent {
 
   latitude: any;
   longitude: any;
+  radius: any;
 
   iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
 
