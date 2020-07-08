@@ -1,5 +1,7 @@
 # Ng6Gmap - Using Google Maps inside Angular 6
 
+[![Join the chat at https://gitter.im/mt_repo/mt_repo_room](https://badges.gitter.im/mt_repo/mt_repo_room.svg)](https://gitter.im/mt_repo/mt_repo_room?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
